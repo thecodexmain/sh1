@@ -1,0 +1,8 @@
+# Default Shopify store domains for automatic selection
+# You can add or remove store URLs (one per line). Lines starting with # are ignored.
+https://shop.gymshark.com
+https://colourpop.com
+https://www.allbirds.com
+https://fashionnova.com
+https://stevemadden.com
+https://www.aloyoga.com
